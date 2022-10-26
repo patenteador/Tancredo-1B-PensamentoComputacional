@@ -2,5 +2,17 @@ body{
   text-align:center;
     background: #48cae4;
 }
-.capa(
-    width:100%)
+.capa{
+
+  width: 100%;
+}
+.beneficios{
+  background-color:#48cae4;
+  text-align: left;
+}
+  ul{display: inline-block;
+  vertical-align: top;
+  font-size: 25px;
+  margin-right: 150px;}
+  li{padding: 20px ;}
+.foto-beneficios{width: 40%;}
