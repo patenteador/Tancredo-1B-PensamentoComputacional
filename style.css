@@ -2,6 +2,31 @@ body{
   text-align:center;
     background: #48cae4;
 }
+h3{
+ text-align: left;
+}
+nav{
+  position: absolute;
+  top: 100px;
+  right: 75px;
+}
+nav a{
+  text-decoration: none;
+  text-transform: uppercase;
+  padding-left: 15px;
+  font-size: 20px;
+  color: blue;
+}
+nav a:hover{
+  font-size: 22px;
+  font-weight: bold;
+  color: black;
+  transition:2s;
+}
+.logo{
+  width: 15%;
+  border-radius: 100%;
+}
 .capa{
 
   width: 100%;
